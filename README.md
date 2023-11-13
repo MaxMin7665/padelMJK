@@ -1,2 +1,3 @@
 # padelMJK
-this game is fun
+This game is fun
+How to play
